@@ -2,4 +2,4 @@
 
 ## About
 
-Voxel world prototype, land is generated using perlin noise and C#'s multithreading [Tasks](https://learn.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=net-6.0).
+Voxel world prototype, land is generated using perlin noise and C#'s asynchronous [Tasks](https://learn.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=net-6.0).
