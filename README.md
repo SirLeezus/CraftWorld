@@ -1,4 +1,4 @@
-![CraftWorldImage](https://i.imgur.com/Fsy0HjW.png)
+![CraftWorldImage](https://i.imgur.com/6nOl0LF.png)
 
 ## About
 
